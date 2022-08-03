@@ -10,6 +10,7 @@ import EyesOpen from "./EyesOpen";
 import Emotion from "./Emotion";
 import { useState } from "react";
 import '../styles/styles.css';
+import React from "react";
 function Test(){
   const [image,setImage] =useState<string>();
   const changeImage = (e :any) => {
