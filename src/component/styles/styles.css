@@ -1,0 +1,17 @@
+.AgeEstimator{
+    Color: #e68d08;
+    font-size : 90px;
+    margin-left: 20%;
+}
+#fileToUpload{
+    font-size: 18px;
+    margin-left: 2%;
+}
+#Image{
+    width: 27%;
+    height: 70%;
+}
+.container{
+    display :flex;
+    flex-direction: row;
+}
